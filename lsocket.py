@@ -24,9 +24,9 @@ while True:
             gForce = float(msgStr)
             if gForce > 9:
                 winsound.Beep(10000, 150)
-            if gForce < 9 and gForce > 6:
+            if gForce < 9 and gForce > 7:
                 winsound.Beep(7000, 150)
-            if gForce < 6 and gForce > 5:
+            if gForce < 7 and gForce > 5:
                 winsound.Beep(5000, 150)
             if gForce < 5 and gForce > 4:
                 winsound.Beep(3000 , 150)
