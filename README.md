@@ -9,4 +9,4 @@ The python script listens for socket messages in port 8075, and converts those t
 2. Run the python file before you start the DCS mission
 
 
-You can adjust the g force frequency bands inside the .py file
+You can adjust the g-force frequency bands inside the .py file
